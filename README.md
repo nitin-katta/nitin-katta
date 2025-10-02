@@ -1,22 +1,66 @@
-<h1 align="center">Hi 👋, I'm Katta Nitin</h1>
-<h3 align="center">A passionate individual is eager to learn new things.</h3>
-<img align ="right" width = 400 alt = "coding" src = "https://img.freepik.com/premium-vector/cartoon-flat-style-drawing-adorable-little-boy-typing-laptop-computer-his-lap-sitting-pile-big-book-student-studying-online-learning-education-graphic-design-vector-illustration_620206-1431.jpg">
+# Hi there 👋, I'm Katta Nitin
 
-🌱 I’m currently learning **Kubernetes, AWS, Terraform, CI/CD**
+Welcome to my GitHub profile! I'm passionate about **Data Science, Machine Learning, AI, and Software Development**, and I love turning complex problems into actionable insights.  
 
-- 💬 Ask me about **Machine Learning, Cloud**
+---
 
-- 📫 How to reach me **nitinkatta7337@gmail.com**
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/meet_nitin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meet_nitin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/katta nitin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="katta nitin" height="30" width="40" /></a>
-<a href="https://instagram.com/meet_nitin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_nitin" height="30" width="40" /></a><p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nitinkatta7337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nitinkatta7337" height="30" width="40" /></a>
-</p>
+### Programming & Tools
+- **Languages:** Python, JavaScript(basics), SQL
+- **Web & App Development:** Streamlit, HTML, CSS.
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, TensorFlow, Hugging Face Transformers
+- **Cloud & DevOps:** AWS, Git, GitHub, Docker (basics)
+- **Other Tools:** Jupyter Notebook, Datalore, Google Sheets, Google Earth Engine
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### Areas of Expertise
+- Data Preprocessing & Cleaning  
+- Predictive Modeling & Classification  
+- NLP & AI Agent Development  
+- Recommendation Systems  
+- Remote Sensing & Geospatial Analysis  
+- Exploratory Data Analysis & Visualization  
 
+---
 
+## 🚀 Projects
+
+### 1. **Reddit Data Science AI Text Mining**
+- Collected Reddit posts from AI/ML/Data Science subreddits.  
+- Preprocessed and analyzed text using **BERT-based sentiment and emotion analysis**.  
+- Insights generated on community perception and discussion trends.  
+- [Repo Link](https://github.com/nitin-katta/reddit-data-science-ai-text-mining)
+
+### 2. **Change in Land Use & Surface Temperature – Naya Raipur**
+- Performed **pixel-based LULC classification** using **Random Forest** in JavaScript on **Google Earth Engine**.  
+- Analyzed how land use changes impact land surface temperature.  
+- Visualized spatio-temporal trends with maps and charts.  
+- [Repo Link](https://github.com/nitin-katta/Change-in-Land_Use-and-Surface_Temperature-.git)
+
+### 3. **Telco Churn Classification**
+- Built machine learning models to predict **customer churn** in a telecommunications dataset.  
+- Applied preprocessing, feature engineering, and model evaluation (Random Forest, Logistic Regression, XGBoost).  
+- Generated actionable insights for business decision-making.  
+- [Repo Link](https://github.com/nitin-katta/TelcoChurn_Classification.git)
+
+### 4. **Stroke Prediction**
+- Predicted likelihood of stroke occurrence based on health and demographic features.  
+- Trained models including **Random Forest, Logistic Regression, SVM, KNN**.  
+- Evaluated models with accuracy, precision, recall, F1-score, and ROC-AUC metrics.  
+- [Repo Link](https://github.com/nitin-katta/Stoke_Prediction.git)
+
+### 5. **Gemini AI Clone**
+- Built a **ChatGPT/Gemini-style AI chatbot** using **Streamlit**.  
+- Integrated API-based LLM models for generating responses.  
+- Supports multiple LLMs beyond GPT, offering flexibility and experimentation.  
+- [Repo Link](https://github.com/nitin-katta/Gemini-Clone.git)
+
+---
+## 📫 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/katta-nitin](https://www.linkedin.com/in/katta-nitin/)  
+- **Email:** [your-email@example.com](mailto:nitinkatta7337@gmail.com)  
+
+---
+
+✨ I’m always open to **collaboration on AI, ML, and data-driven projects**. Let’s build something amazing together!
