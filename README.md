@@ -8,17 +8,16 @@ Welcome to my GitHub profile! I'm passionate about **Data Science, Machine Learn
 
 ### Programming & Tools
 - **Languages:** Python, JavaScript(basics), SQL
-- **Web & App Development:** Streamlit, HTML, CSS.
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, TensorFlow, Hugging Face Transformers
+- **Web & App Development:** Streamlit, HTML, CSS, FastAPI.
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn.
 - **Cloud & DevOps:** AWS, Git, GitHub, Docker (basics)
-- **Other Tools:** Jupyter Notebook, Datalore, Google Sheets, Google Earth Engine
+- **Other Tools:** Jupyter Notebook, Datalore, Google Sheets.
 
 ### Areas of Expertise
 - Data Preprocessing & Cleaning  
 - Predictive Modeling & Classification  
 - NLP & AI Agent Development  
 - Recommendation Systems  
-- Remote Sensing & Geospatial Analysis  
 - Exploratory Data Analysis & Visualization  
 
 ---
